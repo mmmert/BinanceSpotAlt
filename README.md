@@ -1,2 +1,2 @@
 # BinanceSpotAlt
-Current Binance spot alt/usdt list
+Current Binance spot alt/usdt list ready for Tradingview import
